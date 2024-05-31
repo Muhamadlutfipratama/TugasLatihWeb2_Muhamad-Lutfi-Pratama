@@ -1,14 +1,3 @@
-laravel-7-x-sanctum-spa-with-vuejs-always-returns-401-unauthorized
-2 time login error in laravel, 2 time error login 2 time login error, multiple time login failed, error in laravel, login failed multiple time, laravel login login login laravel login failed
-
-
-
-
-
-Solution:   https://stackoverflow.com/questions/62354802/laravel-7-x-sanctum-spa-with-vuejs-always-returns-401-unauthorized
-
-
-
 
 1 Step:        config\cors.php
 <?php
